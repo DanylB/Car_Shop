@@ -1,0 +1,9 @@
+Lambo
+500
+red
+Bugatti
+5000
+green
+Igor
+50
+black

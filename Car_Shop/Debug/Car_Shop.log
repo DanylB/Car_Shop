@@ -1,0 +1,3 @@
+﻿  Car_Shop.cpp
+C:\Users\bbogo\Desktop\folder\Car_Shop\Car_Shop\Car_Shop.cpp(425,10): warning C4101: z: неиспользованная локальная переменная
+  Car_Shop.vcxproj -> C:\Users\bbogo\Desktop\folder\Car_Shop\Debug\Car_Shop.exe
